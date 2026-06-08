@@ -79,8 +79,3 @@ CodeAlpha_LanguageTranslationTool/
 4. Optionally, `gTTS` converts the translated text to speech and plays it in-browser via Streamlit's `st.audio`
 
 ---
-
-## Submission
-
-- GitHub repo: `CodeAlpha_LanguageTranslationTool`
-- Share a LinkedIn post tagging **@CodeAlpha** with your GitHub link and a demo video
